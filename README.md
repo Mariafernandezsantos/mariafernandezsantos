@@ -1,16 +1,31 @@
-### Hi there 👋
+# María Fernandez Santos
 
-<!--
-**Mariafernandezsantos/mariafernandezsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Always looking forward to new challenges:<br>
+Right now I am carrying out my entrepreneurship project and doing a Full Stack development Bootcamp with Factoria F5 (850 hours)
 
-Here are some ideas to get you started:
+## 🚀 About Me
+-  I love design and everything to do with creation.
+-  I like working in a team, being able to contribute and learn from others.
+-  I believe that interpersonal skills are fundamental to our growth both as individuals and professionally.
+-  Restless mind, always wanting to learn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠 Skills
+
+<br>
+
+<br>
+
+
+
+
+## 🔗 Venture
+
+https://www.librosderetosndnela.com
+
+
+
+
+## Acknowledgements
+
+ - [Factoría F5](https://factoriaf5.org/)
