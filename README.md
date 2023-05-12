@@ -1,4 +1,4 @@
-# María Fernandez Santos
+# Hola! Soy María Fernández Santos
 
 Always looking forward to new challenges:<br>
 Right now I am carrying out my entrepreneurship project and doing a Full Stack development Bootcamp with Factoria F5 (850 hours)
