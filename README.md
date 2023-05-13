@@ -1,4 +1,4 @@
-![White Minimalist Corporate Personal Profile LinkedIn Banner (4)](https://github.com/Mariafernandezsantos/mariafernandezsantos/assets/133371373/2b1f322e-4b43-4980-bfeb-9fe37e3f92dd)
+![White Minimalist Corporate Personal Profile LinkedIn Banner (9)](https://github.com/Mariafernandezsantos/mariafernandezsantos/assets/133371373/508bac8c-73dd-4b24-9fb1-8d7b84bfdc6b)
 
 
 # Hola!
