@@ -11,7 +11,7 @@ Right now I am carrying out my entrepreneurship project and doing a Full Stack d
 
 ##  About me
 
-![White Minimalist Corporate Personal Profile LinkedIn Banner (3)](https://github.com/Mariafernandezsantos/mariafernandezsantos/assets/133371373/101a0428-e487-4610-babb-7b7d1f4ec8be)
+![White Minimalist Corporate Personal Profile LinkedIn Banner (6)](https://github.com/Mariafernandezsantos/mariafernandezsantos/assets/133371373/ee975fdd-a03f-4897-b8c5-60041cc7ade0)
 
 
 -  I love design and everything to do with creation.
