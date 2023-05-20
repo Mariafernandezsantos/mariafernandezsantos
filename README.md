@@ -13,8 +13,6 @@
 	<main>
 		<section>
 			<h2>About me</h2>
-			<img src="(https://github.com/Mariafernandezsantos/mariafernandezsantos/assets/133371373/89f49353-3653-4b92-a417-cc5e33741cc2)
-" alt="Sobre mi">
 			<ul>
 				<li>I love design and everything to do with creation.</li>
 				<li>I like working in a team, being able to contribute and learn from others.</li>
