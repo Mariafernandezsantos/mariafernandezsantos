@@ -1,38 +1,19 @@
-![White Minimalist Corporate Personal Profile LinkedIn Banner (9)](https://github.com/Mariafernandezsantos/mariafernandezsantos/assets/133371373/0afef1ca-2621-454f-ad20-6e7076eafa5f)
+<h1 align="center">Hi I'm María</h1>
+<h3 align="center">I am excited to combine the skills acquired in Factoria F5's fullstack web development Bootcamp and my creativity to develop.</h3>
 
-<!DOCTYPE html>
-<html lang="es">
-<head>
-	<meta charset="UTF-8">
-</head>
-<body>
-	<header>
-		<h1>Hola!</h1>
-		<p>My name is María, I am always looking for new challenges, both personal and professional. Right now I am carrying out my entrepreneurship project and doing a Full Stack development Bootcamp with Factoria F5 (850 hours)</p>
-	</header>
-	<main>
-		<section>
-			<h2>About me</h2>
-			<ul>
-				<li>I love design and everything to do with creation.</li>
-				<li>I like working in a team, being able to contribute and learn from others.</li>
-				<li>I believe that interpersonal skills are fundamental to our growth both as individuals and professionally.</li>
-				<li>Restless mind, always wanting to learn.</li>
-			</ul>
-		</section>
-		<section>
-			<h2>Venture</h2>
-			<a href="https://www.librosderetosndnela.com"><img src="![Logo de empresa](https://github.com/Mariafernandezsantos/mariafernandezsantos/assets/133371373/a0d59a81-606f-4f41-9213-22910bf3d952)
-" alt="ND Nela"></a>
-		</section>
-		<section>
-			<h2>Acknowledgements</h2>
 
-![White Minimalist Corporate Personal Profile LinkedIn Banner (2)](https://github.com/Mariafernandezsantos/mariafernandezsantos/assets/133371373/4832d915-03e4-4bb1-8d0e-dd75db8e028d)
-   </section>
-	</main>
-</body>
-</html>
+
+- <p>I'm passionate about traditional music and dance. My position as vice-president of the Prau Lleron Cultural Association has given me solid experience and valuable skills in promotion and planning. My experience planning events, such as the Ochobre Folk Festival, has helped me to improve my communication and negotiation skills. My creativity is not limited to dance; I also design covers and interiors for diaries and low-content books, which I sell successfully on Amazon. This creative and entrepreneurial side inspired me to explore the field of web design and development, where I self-taught myself how to create attractive and useful websites in WordPress. My constant focus on learning and creating drives me to reach new achievements in the field of web development.</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/maria-fernandez-santos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maria-fernandez-santos/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://es.stackoverflow.com/users/340060/maria-fernandez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://es.stackoverflow.com/users/340060/maria-fernandez" height="30" width="40" /></a>
+</p>
+- How to reach me: mariafsdevelop@gmail.com
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
 
 
  
