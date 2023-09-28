@@ -1,3 +1,7 @@
+
+![git readme](https://github.com/Mariafernandezsantos/mariafernandezsantos/assets/133371373/c04f7331-d729-477a-aa66-ff149efdcdc2)
+
+
 <h1 align="center">Hi I'm María</h1>
 <h3 align="center">I am excited to combine the skills acquired in Factoria F5's fullstack web development Bootcamp and my creativity to develop.</h3>
 
@@ -16,4 +20,5 @@
 
 
 
- 
+
+![gracias](https://github.com/Mariafernandezsantos/mariafernandezsantos/assets/133371373/73733724-9a36-438a-9d65-22280d63d974)
